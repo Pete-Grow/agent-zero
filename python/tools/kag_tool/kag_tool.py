@@ -1,3 +1,9 @@
+# Copyright (c) 2024 Jan Tomášek (agent-zero)
+# Copyright OpenSPG (KAG)
+#
+# This integration combines code from agent-zero (MIT License)
+# and KAG (Apache License 2.0). See LICENSE.md for details.
+
 import os
 from typing import Optional, Dict, Any
 
